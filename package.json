@@ -2,7 +2,7 @@
   "name": "Keybladefighters",
   "description": "El mejor bot",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "index.js",
   "scripts": {
     "start": "node bot.js"
   },
